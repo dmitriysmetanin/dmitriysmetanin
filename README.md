@@ -7,8 +7,8 @@
 
 ## Технологический стек 🔨:
 - **ЯП**: Python (pandas, numpy, pyspark, django), Java (Spring), C++;
-- **DB**: PostgreSQL, MS SQL, MongoDB, Milvus, Celery, Redis;
-- **DE**: Apache Airflow / Spark / Kafka;
+- **БД**: PostgreSQL, MS SQL, MongoDB, Milvus, Celery, Redis;
+- **Apache**: Apache Airflow / Spark / Kafka;
 - **Архитектура**: Docker, Kubernetes (k8s), Yandex Cloud, Git;
 - **Мониторинг**: Prometheus, Loki, Graphana;
 - **BI**: Yandex DataLens, Google Sheets, Excel;
@@ -19,7 +19,7 @@
 
 <details>
 
-<summary><b>СУБД</b> (PostgreSQL MS SQL & MongoDB & Milvus)</summary>
+<summary><b>БД</b> (PostgreSQL MS SQL & MongoDB & Milvus)</summary>
 
 ### PostgreSQL
 
