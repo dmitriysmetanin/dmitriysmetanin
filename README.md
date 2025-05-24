@@ -14,7 +14,7 @@
 - BI: Yandex DataLens, Excel, Google Sheets;
 - ML & остальное: PyTorch, Scikit-learn.
 
-## Мой опыт 👇🏻:
+## Примеры работ 👇🏻:
 
 <details>
 
@@ -88,11 +88,24 @@
 
 </details>
 
+<details>
+
+<summary>BI (Yandex Datalens & Google Sheets & Matplotlib & Seaborn)</summary>
+
+### Yandex Datalens
+Интерактивные дашборды:
+- контроль исполнения задач подразделениями;
+- мониторинг эффективности работы в корпоративной системе.
+<img src="assets/images/datalens.jpg">
+
+
+</details>
+
 ## Образование
 Казанский (Приволжский) федеральный университет<br>
 Бакалавр "Программная инженерия"<br>
 <br>
 Курсы:<br>
-«Инженер облачных сервисов» | Yandex Cloud<br>
-«Managed Service for Kubernetes» | Yandex Cloud<br>
-«Введение в параллельное программирование (OpenMP и MPI)» | ТГУ
+«Инженер облачных сервисов» | [Yandex Cloud](https://start.practicum.yandex/ycloud/)<br>
+«Managed Service for Kubernetes» | [Yandex Cloud](https://yandex.cloud/ru/training/kubernetes)<br>
+«Введение в параллельное программирование (OpenMP и MPI)» | [ТГУ](https://stepik.org/course/115024/syllabus)
