@@ -5,20 +5,21 @@
 Ранее занимался fullstack-разработкой на Django (Python) - сейчас руковожу командой, которая это делает;<br>
 Реальный опыт и широкий кругозор позволяют мне решать задачи разной тематики и сложности.
 
-## Технический стек:
-- ЯП: Python (pandas, numpy, pyspark, django), Java (Spring), C++;
-- DB: PostgreSQL, MS SQL, MongoDB, Milvus, Celery, Redis;
-- DE: Apache Airflow / Spark / Kafka;
-- Архитектура: Docker, Kubernetes (k8s), Yandex Cloud, Git;
-- Мониторинг: Prometheus, Loki, K6, Graphana;
-- BI: Yandex DataLens, Excel, Google Sheets;
-- ML & остальное: PyTorch, Scikit-learn.
+## Технологический стек 🔨:
+- **ЯП**: Python (pandas, numpy, pyspark, django), Java (Spring), C++;
+- **DB**: PostgreSQL, MS SQL, MongoDB, Milvus, Celery, Redis;
+- **DE**: Apache Airflow / Spark / Kafka;
+- **Архитектура**: Docker, Kubernetes (k8s), Yandex Cloud, Git;
+- **Мониторинг**: Prometheus, Loki, Graphana;
+- **BI**: Yandex DataLens, Google Sheets, Excel;
+- **ML**: PyTorch, Scikit-learn.
+- **Тестирование**: Grafana K6, PgBench, Selenium; 
 
-## Примеры работ 👇🏻:
+## Примеры работ 👨‍💻:
 
 <details>
 
-<summary>СУБД (PostgreSQL MS SQL & MongoDB & Milvus)</summary>
+<summary><b>СУБД</b> (PostgreSQL MS SQL & MongoDB & Milvus)</summary>
 
 ### PostgreSQL
 
@@ -45,7 +46,7 @@
 
 <details>
 
-<summary>Apache (Airflow & Spark & Kafka)</summary>
+<summary><b>Apache</b> (Airflow & Spark & Kafka)</summary>
 
 ### Apache Airflow
 
@@ -63,7 +64,7 @@
 
 <details>
 
-<summary>Grafana (Prometheus & Loki & K6 & Grafana)</summary>
+<summary><b>Grafana</b> (Prometheus & Loki & Grafana)</summary>
 
 ### Prometheus
 
@@ -73,15 +74,6 @@
 
 ...
 
-
-### K6
-
-Нагрузочное тестирование веб-приложений:
-- проверка latency запросов к API / страницам;
-- поиск медленных страниц для оптимизации;
-- оценка максимальной пропускной способности системы.
-<img src="assets/images/grafana-k6.png">
-
 ### Grafana
 
 ...
@@ -90,7 +82,7 @@
 
 <details>
 
-<summary>BI (Yandex Datalens & Google Sheets & Matplotlib & Seaborn)</summary>
+<summary><b>BI</b> (Yandex Datalens & Google Sheets & Matplotlib & Seaborn)</summary>
 
 ### Yandex Datalens
 Интерактивные дашборды:
@@ -98,10 +90,27 @@
 - мониторинг эффективности работы в корпоративной системе.
 <img src="assets/images/datalens.jpg">
 
+</details>
+
+<details>
+
+<summary><b>Тестирование</b> (Grafana K6 & PgBench & Selenium)</summary>
+
+### Grafana K6
+
+Нагрузочное тестирование веб-приложений:
+- проверка latency запросов к API / страницам;
+- поиск медленных страниц для оптимизации;
+- оценка максимальной пропускной способности системы.
+<img src="assets/images/grafana-k6.png">
+
+### PgBench
+
+...
 
 </details>
 
-## Образование
+## Образование 👨‍🎓
 Казанский (Приволжский) федеральный университет<br>
 Бакалавр "Программная инженерия"<br>
 <br>
