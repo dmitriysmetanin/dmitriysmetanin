@@ -6,7 +6,7 @@
 
 ## Технологии 🔨:
 - **БД**: PostgreSQL, MS SQL, MongoDB, Milvus;
-- **Data pipelines**: Airflow, Spark, Kafka;
+- **Обработка данных**: Airflow, Spark, Kafka;
 - **Инфраструктура**: Docker, Kubernetes (базовое развертывание), Yandex Cloud;
 - **Мониторинг**: Prometheus, Loki, Grafana, K6;
 - **BI**: Yandex Datalens;
@@ -54,11 +54,19 @@
 
 <details>
 
-<summary><b>Data pipelines</b> (Airflow & Spark & Kafka)</summary>
+<summary><b>Обработка данных</b> (Airflow & Spark & Kafka)</summary>
 
 ### Apache Airflow
 
-...
+<div style="display:flex; flex-direction:column;">
+  <div style="display:flex; flex-direction:row;">
+    Создание бэкапов по расписанию и загрузка в облачное хранилище
+    <img src="assets/images/airflow-backups.png" style="width: 50%;">
+  </div>
+  <div style="display:flex; flex-direction:row;">
+    
+  </div>
+</div>
 
 ### Apache Spark
 
